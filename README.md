@@ -32,7 +32,7 @@ The goal is to **automate** the **extraction, processing, and analysis** of YouT
 - **FastAPI + Async Processing** → Scalable API architecture  
 - **ngrok Deployment** → Public API access  
 
-### ** AI-Powered Video Analytics**  
+### AI-Powered Video Analytics
 - **Sentiment Breakdown** → Positive, Negative, Neutral classification  
 - **AI-Generated Summaries** → Key takeaways from video content  
 - **Google Gemini AI Interpretations** → Deep content intelligence  
@@ -47,7 +47,7 @@ The goal is to **automate** the **extraction, processing, and analysis** of YouT
 
 ---
 
-## ** Challenges Faced & Solutions**  
+##  Challenges Faced & Solutions
 
 1**YouTube Restrictions on Audio/Video Downloading**  
 - **Challenge:** YouTube policies block direct downloads, limiting transcription options.  
@@ -83,8 +83,7 @@ The goal is to **automate** the **extraction, processing, and analysis** of YouT
 
 ---
 
-## **Report & Code**  
-**Full Analysis Report** → `"AI-Driven-YouTube-Analysis-Report.pdf"`  
+## **Report & Code**    
 **Code & Implementation** → `"AI-YouTube-Analysis.ipynb"`  
 
 ---
