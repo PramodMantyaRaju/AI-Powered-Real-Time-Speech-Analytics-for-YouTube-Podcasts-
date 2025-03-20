@@ -92,6 +92,6 @@ The goal is to **automate** the **extraction, processing, and analysis** of YouT
 **Pramod Mantya Raju**  
 **Data Scientist | AI & ML Engineer | Product Manager**  
 MSBA & MBA | Python, SQL, & Analytics | **Ex-Philips | Ex-CGI**  
-📩 **LinkedIn**: [Your LinkedIn Profile]  
+📩 **LinkedIn**: https://www.linkedin.com/in/pramod-mantya-raju/
 
 
