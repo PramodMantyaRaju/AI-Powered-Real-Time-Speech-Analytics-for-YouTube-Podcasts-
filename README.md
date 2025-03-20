@@ -6,7 +6,7 @@ This project leverages **Generative AI, Large Language Models (LLMs), and NLP** 
 ## **Project Objective**  
 The goal is to **automate** the **extraction, processing, and analysis** of YouTube video content using advanced AI. This tool provides **summarization, sentiment analysis, metadata extraction, and predictive insights**, helping users understand audience engagement and video sentiment efficiently.  
 
-## ** Key Highlights**  
+## Key Highlights
 **Multimodal AI Analysis** → Uses **Google Gemini AI & OpenAI GPT** to analyze **text, metadata, and sentiment**  
 **Generative AI-Powered Summarization** → Leverages **BART (facebook/bart-large-cnn)** for concise **video summaries**  
 **Sentiment Analysis with Deep Learning** → Uses **RoBERTa (cardiffnlp/twitter-roberta-base-sentiment)** for **audience sentiment classification**  
