@@ -84,7 +84,7 @@ The goal is to **automate** the **extraction, processing, and analysis** of YouT
 ---
 
 ## **Report & Code**    
-**Code & Implementation** → `"AI-YouTube-Analysis.ipynb"`  
+**Code & Implementation** → `"GenAI_LLM_Video_Intelligence_Tool.ipynb"`  
 
 ---
 
